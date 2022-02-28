@@ -1,0 +1,501 @@
+id,member_id,loan_amnt,funded_amnt,funded_amnt_inv,term,int_rate,installment,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,pymnt_plan
+,,20000,20000,20000, 60 months,17.19%,499.1,C,C5,Front desk supervisor,6 years,RENT,47000,Source Verified,Mar-19,Issued,n
+,,21225,21225,21225, 60 months,14.74%,502.05,C,C2,ceo,10+ years,MORTGAGE,225000,Not Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,17.97%,180.69,D,D1,,n/a,MORTGAGE,62000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,8.19%,628.49,A,A4,Executive Director of Guardian Advantage,1 year,MORTGAGE,200000,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,15.57%,289.09,C,C3,Computer Operator,5 years,MORTGAGE,49000,Source Verified,Mar-19,Issued,n
+,,13500,13500,13500, 36 months,7.56%,420.31,A,A3,Security officer,8 years,RENT,34860,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,7.02%,772.16,A,A2,"Vice President, Trade Show",5 years,MORTGAGE,305000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,12.40%,224.48,B,B4,,n/a,MORTGAGE,38000,Not Verified,Mar-19,Issued,n
+,,7000,7000,7000, 36 months,8.81%,221.98,A,A5,Administrative Assistant/Legal Secretary,6 years,MORTGAGE,50000,Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,12.40%,538.74,B,B4,Engineer,10+ years,MORTGAGE,124812,Verified,Mar-19,Issued,n
+,,18500,18500,18500, 60 months,13.90%,429.51,C,C1,Social Worker,5 years,MORTGAGE,43000,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,13.90%,409.55,C,C1,QC Manager,< 1 year,MORTGAGE,67500,Verified,Mar-19,Issued,n
+,,3000,3000,3000, 36 months,14.74%,103.62,C,C2,Office Manager,4 years,MORTGAGE,58750,Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,12.40%,538.74,B,B4,Electrical Engineer,5 years,MORTGAGE,80713,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,16.40%,424.26,C,C4,Executive Director,4 years,MORTGAGE,95000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,8.19%,314.25,A,A4,Executive Assistant,10+ years,RENT,72000,Not Verified,Mar-19,Issued,n
+,,4000,4000,4000, 36 months,14.74%,138.16,C,C2,Case Packer,5 years,MORTGAGE,50000,Source Verified,Mar-19,Issued,n
+,,30000,30000,30000, 36 months,8.81%,951.35,A,A5,Chief Executive Officer,1 year,MORTGAGE,112000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,28.80%,505.93,D,D5,Station Agent ,10+ years,RENT,84000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,20.00%,371.64,D,D2,Fresh,2 years,RENT,28000,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,17.97%,542.07,D,D1,Administrative Assistant,5 years,MORTGAGE,58240,Verified,Mar-19,Issued,n
+,,14400,14400,14400, 36 months,25.00%,572.55,D,D4,Assistant VP,10+ years,MORTGAGE,46340,Verified,Mar-19,Issued,n
+,,24000,24000,24000, 36 months,8.19%,754.18,A,A4,Pilot,10+ years,MORTGAGE,329991,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,16.40%,392.5,C,C4,Hostler,6 years,MORTGAGE,65000,Source Verified,Mar-19,Issued,n
+,,6500,6500,6500, 36 months,12.40%,217.14,B,B4,Portfolio Specialist,3 years,MORTGAGE,97000,Not Verified,Mar-19,Issued,n
+,,18500,18500,18500, 60 months,14.74%,437.6,C,C2,,n/a,MORTGAGE,43000,Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,8.81%,380.54,A,A5,Front Office ,2 years,MORTGAGE,170000,Not Verified,Mar-19,Issued,n
+,,8400,8400,8400, 36 months,13.90%,286.69,C,C1,finance shared services specialist 2,10+ years,RENT,66000,Not Verified,Mar-19,Issued,n
+,,6000,6000,5975, 36 months,7.56%,186.81,A,A3,,n/a,MORTGAGE,33000,Source Verified,Mar-19,Issued,n
+,,3025,3025,3025, 36 months,17.19%,108.14,C,C5,Warehouse employee,3 years,RENT,30000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,6.46%,367.57,A,A1,server,7 years,MORTGAGE,50000,Source Verified,Mar-19,Issued,n
+,,40000,40000,40000, 60 months,12.40%,897.89,B,B4,SVP,10+ years,MORTGAGE,515000,Source Verified,Mar-19,Issued,n
+,,35000,35000,35000, 36 months,15.57%,1223.08,C,C3,Store Manager ,10+ years,RENT,122000,Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,20.00%,222.99,D,D2,mail and file clerk,10+ years,OWN,42000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,12.40%,359.16,B,B4,Information Technology,5 years,MORTGAGE,67500,Source Verified,Mar-19,Issued,n
+,,11000,11000,11000, 60 months,16.40%,269.85,C,C4,LEGAL ASSISTANT,3 years,MORTGAGE,48000,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,20.00%,635.86,D,D2,operating tech,8 years,MORTGAGE,123000,Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,13.90%,170.65,C,C1,,n/a,OWN,38400,Source Verified,Mar-19,Issued,n
+,,6500,6500,6475, 36 months,8.81%,206.13,A,A5,Service Technician,10+ years,OWN,85000,Source Verified,Mar-19,Issued,n
+,,35000,35000,35000, 60 months,13.08%,797.8,B,B5,Teacher,10+ years,MORTGAGE,115000,Source Verified,Mar-19,Issued,n
+,,11400,11400,11400, 60 months,17.19%,284.49,C,C5,Electromechanical Technician,1 year,MORTGAGE,80000,Not Verified,Mar-19,Issued,n
+,,4000,4000,4000, 36 months,8.81%,126.85,A,A5,,< 1 year,RENT,40996,Not Verified,Mar-19,Issued,n
+,,12500,12500,12500, 36 months,6.46%,382.89,A,A1,Distribution Warehouse Driver,10+ years,MORTGAGE,47355,Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,13.08%,569.86,B,B5,CFO,9 years,MORTGAGE,165000,Verified,Mar-19,Issued,n
+,,22000,22000,22000, 60 months,12.40%,493.84,B,B4,Staff Auditor,10+ years,RENT,43000,Verified,Mar-19,Issued,n
+,,2000,2000,2000, 36 months,16.40%,70.71,C,C4,Teacher,3 years,RENT,53000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,12.40%,448.95,B,B4,Sales,1 year,MORTGAGE,70000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,12.40%,561.18,B,B4,,n/a,MORTGAGE,0,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,13.08%,273.53,B,B5,Branch manager,9 years,RENT,70000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,17.19%,249.55,C,C5,Formulation/Sanitizer,4 years,RENT,29000,Not Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,16.40%,735.94,C,C4,Dental Assistant,10+ years,MORTGAGE,150000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,17.97%,380.66,D,D1,Logistic Specialist,9 years,RENT,45000,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,13.90%,511.94,C,C1,Office Manager,6 years,RENT,71500,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,20.00%,662.35,D,D2,Product Technician,10+ years,MORTGAGE,77105,Source Verified,Mar-19,Issued,n
+,,32000,32000,32000, 60 months,20.00%,847.81,D,D2,Police Officer,10+ years,MORTGAGE,69000,Source Verified,Mar-19,Issued,n
+,,2000,2000,2000, 36 months,20.00%,74.33,D,D2,Clinician ,2 years,MORTGAGE,55000,Not Verified,Mar-19,Issued,n
+,,7200,7200,7200, 36 months,16.40%,254.56,C,C4,Sr Support Technical Analyst,7 years,OWN,98000,Not Verified,Mar-19,Issued,n
+,,35000,35000,35000, 36 months,14.74%,1208.84,C,C2,"Sr. Manager, Quality Assurance",< 1 year,RENT,169000,Verified,Mar-19,Issued,n
+,,7800,7800,7800, 36 months,11.02%,255.44,B,B2,Distribution manager,10+ years,RENT,61000,Source Verified,Mar-19,Issued,n
+,,2000,2000,1725, 36 months,11.71%,66.16,B,B3,Supervisor,10+ years,MORTGAGE,95000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,11.02%,217.53,B,B2,,< 1 year,MORTGAGE,69999,Not Verified,Mar-19,Issued,n
+,,31125,31125,31125, 60 months,13.08%,709.47,B,B5,Electronics Technician,5 years,MORTGAGE,90000,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.81%,475.68,A,A5,Technician,4 years,MORTGAGE,60500,Source Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,13.90%,696.5,C,C1,RN,6 years,RENT,150000,Source Verified,Mar-19,Issued,n
+,,13000,13000,13000, 36 months,6.46%,398.21,A,A1,,n/a,OWN,65000,Source Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,12.40%,359.16,B,B4,Customer Service Representative,< 1 year,RENT,29212,Source Verified,Mar-19,Issued,n
+,,40000,40000,40000, 60 months,14.74%,946.15,C,C2,Associate Executive Director,10+ years,MORTGAGE,150000,Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,25.00%,318.08,D,D4,Project Manager,10+ years,MORTGAGE,85000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,20.00%,529.88,D,D2,Custom applicator,2 years,MORTGAGE,55000,Verified,Mar-19,Issued,n
+,,14000,14000,14000, 60 months,14.74%,331.16,C,C2,,n/a,RENT,48000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,22.50%,418.56,D,D3,Direct Care,10+ years,RENT,64000,Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,17.19%,623.88,C,C5,Sr. Data Manager,10+ years,MORTGAGE,200000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,20.00%,662.35,D,D2,Consumer Safety Technician,10+ years,RENT,70000,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,20.00%,635.86,D,D2,Program Manager,10+ years,MORTGAGE,130000,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,12.40%,269.37,B,B4,CM Supervisor ,5 years,RENT,56000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.19%,471.37,A,A4,Engineer,10+ years,MORTGAGE,112783,Source Verified,Mar-19,Issued,n
+,,8800,8800,8800, 36 months,20.00%,327.04,D,D2,CARE GIVER,3 years,RENT,24000,Not Verified,Mar-19,Issued,n
+,,18200,18200,18200, 60 months,28.80%,575.49,D,D5,Vice President,8 years,RENT,118000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.19%,471.37,A,A4,Owner Director,10+ years,MORTGAGE,45000,Source Verified,Mar-19,Issued,n
+,,16000,16000,16000, 36 months,6.46%,490.1,A,A1,"Director, Customer Support",8 years,OWN,100000,Source Verified,Mar-19,Issued,n
+,,35000,35000,35000, 60 months,13.08%,797.8,B,B5,PSD Team ,< 1 year,MORTGAGE,125890,Verified,Mar-19,Fully Paid,n
+,,32000,32000,32000, 60 months,14.74%,756.92,C,C2,Retail Salesperson,10+ years,RENT,90000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,22.50%,769,D,D3,Human Resources Liaison ,10+ years,RENT,75000,Not Verified,Mar-19,Current,n
+,,6400,6400,6400, 36 months,13.90%,218.43,C,C1,,< 1 year,RENT,28000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,20.00%,662.35,D,D2,Director of Finance,4 years,MORTGAGE,135000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,8.19%,785.61,A,A4,,< 1 year,MORTGAGE,130000,Not Verified,Mar-19,Issued,n
+,,1600,1600,1575, 36 months,11.02%,52.4,B,B2,CSR,1 year,RENT,27840,Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,17.97%,406.04,D,D1,,n/a,MORTGAGE,11000,Not Verified,Mar-19,Issued,n
+,,14000,14000,14000, 36 months,8.81%,443.96,A,A5,Business Analyst,4 years,MORTGAGE,84000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,13.90%,853.23,C,C1,,< 1 year,MORTGAGE,250000,Not Verified,Mar-19,Issued,n
+,,13500,13500,13500, 36 months,7.56%,420.31,A,A3,Collaborative Practice RN,8 years,MORTGAGE,68000,Not Verified,Mar-19,Issued,n
+,,8400,8400,8400, 36 months,7.56%,261.53,A,A3,Superintendent,10+ years,MORTGAGE,56500,Verified,Mar-19,Issued,n
+,,4800,4800,4800, 36 months,17.19%,171.59,C,C5,Creative Director,2 years,RENT,95000,Source Verified,Mar-19,Issued,n
+,,10500,10500,10500, 36 months,17.19%,375.35,C,C5,Transportation Coordinator ,9 years,RENT,66000,Source Verified,Mar-19,Current,n
+,,20000,20000,20000, 36 months,17.97%,722.75,D,D1,Computer Specialist,10+ years,RENT,110000,Not Verified,Mar-19,Issued,n
+,,1000,1000,975, 36 months,7.56%,31.14,A,A3,,n/a,RENT,26000,Not Verified,Mar-19,Issued,n
+,,18500,18500,18500, 60 months,14.74%,437.6,C,C2,,< 1 year,RENT,144000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,13.08%,364.71,B,B5,Admissions Counselor,2 years,RENT,72500,Source Verified,Mar-19,Issued,n
+,,3500,3500,3500, 36 months,8.81%,110.99,A,A5,staff/instructor,10+ years,MORTGAGE,90000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,20.00%,929.09,D,D2,Engineer,8 years,MORTGAGE,105000,Verified,Mar-19,Current,n
+,,30000,30000,30000, 60 months,14.74%,709.62,C,C2,Research Assistant II,9 years,MORTGAGE,64000,Source Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,20.00%,185.82,D,D2,Security Guard,< 1 year,RENT,42000,Not Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,13.90%,557.2,C,C1,Budget analyst,10+ years,MORTGAGE,86000,Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,12.40%,269.37,B,B4,,< 1 year,OWN,89000,Not Verified,Mar-19,Issued,n
+,,7500,7500,7500, 36 months,16.40%,265.17,C,C4,Franchise Services Director,10+ years,MORTGAGE,98200,Source Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,14.74%,709.62,C,C2,Auditor,10+ years,MORTGAGE,137512,Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,22.50%,558.08,D,D3,Route Rep,10+ years,RENT,48000,Verified,Mar-19,Issued,n
+,,3000,3000,3000, 36 months,28.80%,125.4,D,D5,Sales/Marketing,5 years,RENT,90000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,7.56%,778.35,A,A3,Nurse Practitioner ,3 years,MORTGAGE,126000,Not Verified,Mar-19,Issued,n
+,,2800,2800,2775, 36 months,8.19%,87.99,A,A4,Brand and Content Strategist ,2 years,RENT,48500,Not Verified,Mar-19,Issued,n
+,,23000,23000,23000, 60 months,17.97%,583.68,D,D1,,n/a,MORTGAGE,36000,Not Verified,Mar-19,Issued,n
+,,35000,35000,35000, 60 months,15.57%,843.16,C,C3,Regional Sales Manager,10+ years,MORTGAGE,200000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,20.00%,371.64,D,D2,,n/a,RENT,27000,Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,15.57%,722.71,C,C3,,< 1 year,MORTGAGE,185000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,16.40%,294.38,C,C4,Network Architect,10+ years,MORTGAGE,82000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,20.00%,397.41,D,D2,maintenance,< 1 year,OWN,70000,Source Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,20.00%,794.82,D,D2,Sale,10+ years,MORTGAGE,280000,Source Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,22.50%,837.12,D,D3,,n/a,RENT,60000,Verified,Mar-19,Issued,n
+,,3000,3000,3000, 36 months,8.19%,94.28,A,A4,maintenance,10+ years,MORTGAGE,45000,Not Verified,Mar-19,Issued,n
+,,7000,7000,7000, 36 months,20.00%,260.15,D,D2,Literacy Tutor,2 years,RENT,29000,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 36 months,7.02%,741.27,A,A2,Senior Associate,10+ years,MORTGAGE,202000,Not Verified,Mar-19,Issued,n
+,,3000,3000,3000, 36 months,15.57%,104.84,C,C3,Ramp Service,10+ years,RENT,50000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 36 months,14.74%,552.62,C,C2,Assistant Manager ,10+ years,MORTGAGE,49500,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,22.50%,961.25,D,D3,Finance Director,10+ years,MORTGAGE,115000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,8.81%,317.12,A,A5,,< 1 year,MORTGAGE,36000,Not Verified,Mar-19,Issued,n
+,,26000,26000,26000, 60 months,15.57%,626.35,C,C3,Production Foreman,10+ years,MORTGAGE,85000,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,16.40%,367.97,C,C4,Healthcare sergeant,8 years,MORTGAGE,48576,Source Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,17.97%,761.32,D,D1,Store GM,10+ years,MORTGAGE,115000,Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,22.50%,384.5,D,D3,Molder,10+ years,RENT,40000,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.81%,475.68,A,A5,Counselor ll,7 years,MORTGAGE,98000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,6.46%,612.62,A,A1,Administrative Assistant and Book Keeper,10+ years,MORTGAGE,68000,Not Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,15.57%,174.73,C,C3,Area Manager,3 years,OWN,65000,Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,20.00%,529.88,D,D2,,n/a,MORTGAGE,56000,Verified,Mar-19,Current,n
+,,10000,10000,10000, 36 months,16.40%,353.55,C,C4,AGR OPS SGT/SFC,10+ years,RENT,92000,Verified,Mar-19,Current,n
+,,12000,12000,12000, 36 months,8.81%,380.54,A,A5,CLS,10+ years,OWN,50000,Not Verified,Mar-19,Issued,n
+,,17500,17500,17500, 36 months,17.19%,625.58,C,C5,Lead Technical Writer,5 years,RENT,82000,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 36 months,20.00%,891.93,D,D2,Electrician,6 years,MORTGAGE,75000,Source Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,16.40%,282.84,C,C4,Supervisor,10+ years,MORTGAGE,90000,Verified,Mar-19,Issued,n
+,,3000,3000,3000, 36 months,14.74%,103.62,C,C2,Case Manager,10+ years,OWN,50000,Source Verified,Mar-19,Issued,n
+,,5000,5000,4975, 36 months,8.19%,157.13,A,A4,Nurses Aid,10+ years,MORTGAGE,37000,Not Verified,Mar-19,Issued,n
+,,22000,22000,22000, 60 months,14.74%,520.39,C,C2,Accountant,10+ years,MORTGAGE,52000,Not Verified,Mar-19,Current,n
+,,20000,20000,20000, 60 months,15.57%,481.81,C,C3,DIRECTOR OF RELIGEOUS EDUCATION,10+ years,MORTGAGE,80300,Verified,Mar-19,Issued,n
+,,2000,2000,2000, 36 months,25.00%,79.52,D,D4,,< 1 year,MORTGAGE,70000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,13.90%,232.17,C,C1,Quality control,< 1 year,MORTGAGE,40000,Not Verified,Mar-19,Issued,n
+,,20400,20400,20400, 60 months,20.00%,540.48,D,D2,Rapid ReHousing Case Manager,3 years,RENT,66000,Source Verified,Mar-19,Issued,n
+,,21000,21000,21000, 60 months,13.90%,487.55,C,C1,Police Officer,10+ years,RENT,77000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,14.74%,236.54,C,C2,Senior buyer,2 years,MORTGAGE,150000,Not Verified,Mar-19,Issued,n
+,,13750,13750,13750, 36 months,28.80%,574.71,D,D5,,n/a,MORTGAGE,17808,Verified,Mar-19,Fully Paid,n
+,,40000,40000,40000, 60 months,11.02%,870.1,B,B2,VP of Sales,3 years,MORTGAGE,288000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,20.00%,371.64,D,D2,benefits coordinator,10+ years,MORTGAGE,47700,Source Verified,Mar-19,Issued,n
+,,28575,28575,28575, 60 months,20.00%,757.07,D,D2,Realtor,3 years,MORTGAGE,98000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,20.00%,264.94,D,D2,Senior Pharmacy Tech,10+ years,MORTGAGE,65000,Source Verified,Mar-19,Issued,n
+,,40000,40000,40000, 60 months,17.19%,998.2,C,C5,AEMT,3 years,MORTGAGE,35000,Verified,Mar-19,Issued,n
+,,14000,14000,14000, 36 months,7.56%,435.88,A,A3,carpenter,10+ years,RENT,71000,Source Verified,Mar-19,Current,n
+,,5000,5000,4975, 36 months,7.56%,155.67,A,A3,Cook,2 years,RENT,25000,Source Verified,Mar-19,Issued,n
+,,16500,16500,16500, 36 months,8.19%,518.5,A,A4,Registered nurse ,3 years,MORTGAGE,63000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,8.19%,628.49,A,A4,information specialist,10+ years,MORTGAGE,45500,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,17.19%,374.33,C,C5,Marketing Director,3 years,RENT,150000,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.19%,471.37,A,A4,Maintenance Technician,5 years,MORTGAGE,65000,Verified,Mar-19,Issued,n
+,,14400,14400,14400, 60 months,13.90%,334.32,C,C1,Prod. Tech,10+ years,RENT,107000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,20.00%,264.94,D,D2,Detention Officer,10+ years,RENT,49000,Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,14.74%,283.85,C,C2,resin operator,10+ years,MORTGAGE,55000,Not Verified,Mar-19,Issued,n
+,,9000,9000,9000, 36 months,8.81%,285.41,A,A5,web content manager,6 years,MORTGAGE,90000,Not Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,17.19%,598.92,C,C5,Accounts Payable Manager,10+ years,MORTGAGE,68000,Source Verified,Mar-19,Issued,n
+,,2675,2675,2400, 36 months,12.40%,89.37,B,B4,Rn,10+ years,MORTGAGE,90000,Source Verified,Mar-19,Issued,n
+,,25200,25200,25200, 60 months,15.57%,607.08,C,C3,asst Supr,10+ years,MORTGAGE,65000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,17.19%,374.33,C,C5,Facilites Service Engineer ,2 years,MORTGAGE,82000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,13.90%,682.59,C,C1,Team Lead,4 years,MORTGAGE,95000,Source Verified,Mar-19,Issued,n
+,,8500,8500,8500, 36 months,17.97%,307.17,D,D1,DOM worker,10+ years,RENT,50000,Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,17.97%,634.43,D,D1,Therapist,3 years,MORTGAGE,90000,Source Verified,Mar-19,Current,n
+,,10000,10000,10000, 60 months,20.00%,264.94,D,D2,,n/a,MORTGAGE,34788,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,13.08%,674.65,B,B5,Office Manager,1 year,RENT,50000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,13.90%,464.33,C,C1,,n/a,MORTGAGE,78000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,20.00%,397.41,D,D2,Trainer,10+ years,RENT,58000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 36 months,7.56%,498.15,A,A3,Healthcare Analyst,6 years,MORTGAGE,80000,Not Verified,Mar-19,Issued,n
+,,28000,28000,28000, 60 months,20.00%,741.83,D,D2,Human Resources supervisor ,3 years,RENT,65000,Source Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,6.46%,245.05,A,A1,Paralegal,10+ years,MORTGAGE,56000,Not Verified,Mar-19,Issued,n
+,,9800,9800,9800, 36 months,7.02%,302.69,A,A2,Business Intelligence Specialist,10+ years,MORTGAGE,81000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,16.40%,490.63,C,C4,Consumer mortgage loan processor,< 1 year,MORTGAGE,46800,Source Verified,Mar-19,Issued,n
+,,1100,1100,1100, 36 months,17.97%,39.76,D,D1,manager,10+ years,RENT,19000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,6.46%,367.57,A,A1,Table Games Dealer,10+ years,RENT,65000,Source Verified,Mar-19,Issued,n
+,,2400,2400,2400, 36 months,8.19%,75.42,A,A4,AV Manager,3 years,RENT,67000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,14.74%,473.08,C,C2,Inspector,10+ years,RENT,48000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,8.81%,380.54,A,A5,System Administrator II,10+ years,MORTGAGE,117000,Not Verified,Mar-19,Issued,n
+,,35000,35000,35000, 60 months,22.50%,976.64,D,D3,IT Tech,8 years,MORTGAGE,106000,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,20.00%,397.41,D,D2,Director of Private Banking,10+ years,MORTGAGE,300000,Not Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,22.50%,230.7,D,D3,Plant Coordinator,10+ years,RENT,59000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,20.00%,423.91,D,D2,Ward Clerk,3 years,RENT,50000,Source Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,20.00%,794.82,D,D2,Registered Nurse,4 years,MORTGAGE,98000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,13.08%,341.92,B,B5,,< 1 year,RENT,42200,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,13.90%,341.3,C,C1,Service Technician,10+ years,RENT,90000,Not Verified,Mar-19,Issued,n
+,,40000,40000,40000, 60 months,10.33%,856.4,B,B1,Technician,10+ years,MORTGAGE,80000,Verified,Mar-19,Issued,n
+,,38825,38825,38825, 60 months,13.08%,884.98,B,B5,Security,3 years,RENT,58000,Not Verified,Mar-19,Issued,n
+,,8000,8000,7975, 36 months,8.19%,251.4,A,A4,Senior Director of Operations,1 year,OWN,150000,Source Verified,Mar-19,Issued,n
+,,13200,13200,13200, 60 months,22.50%,368.34,D,D3,Anesthesia Tech,1 year,RENT,55000,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,20.00%,397.41,D,D2,Salesman ,1 year,RENT,30000,Source Verified,Mar-19,Issued,n
+,,3000,3000,2975, 36 months,8.19%,94.28,A,A4,Painter,9 years,OWN,106000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,14.74%,863.46,C,C2,IT Supervisor,10+ years,MORTGAGE,121330,Not Verified,Mar-19,Issued,n
+,,3600,3600,3600, 36 months,16.40%,127.28,C,C4,Home aid,10+ years,RENT,32000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,7.56%,311.34,A,A3,Agent,2 years,RENT,70000,Not Verified,Mar-19,Issued,n
+,,40000,40000,40000, 60 months,17.19%,998.2,C,C5,Inside Sales,10+ years,MORTGAGE,50000,Verified,Mar-19,Issued,n
+,,4700,4700,4675, 36 months,6.46%,143.97,A,A1,Maintenance,10+ years,RENT,30000,Not Verified,Mar-19,Issued,n
+,,9000,9000,9000, 36 months,22.50%,346.05,D,D3,Sushi Chef,1 year,RENT,50000,Source Verified,Mar-19,Issued,n
+,,4200,4200,4200, 36 months,8.81%,133.19,A,A5,Speech-Language Pathologist,4 years,RENT,60000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,20.00%,371.64,D,D2,,< 1 year,MORTGAGE,125000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,15.57%,289.09,C,C3,Service Advisor,10+ years,MORTGAGE,60000,Source Verified,Mar-19,Issued,n
+,,17600,17600,17600, 60 months,20.00%,466.3,D,D2,Administrative Assistant III ,10+ years,RENT,82000,Source Verified,Mar-19,Issued,n
+,,1450,1450,1175, 36 months,13.08%,48.92,B,B5,Nurse,10+ years,MORTGAGE,40000,Not Verified,Mar-19,Issued,n
+,,30000,30000,30000, 36 months,14.74%,1036.15,C,C2,Chef,10+ years,RENT,52000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,14.74%,345.39,C,C2,Sales,10+ years,MORTGAGE,60000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,14.74%,591.35,C,C2,Director of planning ,6 years,MORTGAGE,174000,Source Verified,Mar-19,Issued,n
+,,3600,3600,3600, 36 months,8.81%,114.17,A,A5,Generating Tech,10+ years,RENT,35000,Not Verified,Mar-19,Issued,n
+,,20400,20400,20400, 60 months,20.00%,540.48,D,D2,Accounts Payable,6 years,RENT,51315,Source Verified,Mar-19,Current,n
+,,2500,2500,2500, 36 months,7.56%,77.84,A,A3,Pricing Analyst,10+ years,RENT,60000,Not Verified,Mar-19,Issued,n
+,,18000,18000,18000, 60 months,15.57%,433.63,C,C3,,n/a,MORTGAGE,66000,Verified,Mar-19,Issued,n
+,,20475,20475,20475, 36 months,20.00%,760.93,D,D2,,< 1 year,MORTGAGE,118610,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,14.74%,567.69,C,C2,,< 1 year,MORTGAGE,175000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 36 months,17.97%,578.2,D,D1,Sr Cyber Security Analyst,1 year,MORTGAGE,125000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,20.00%,264.94,D,D2,,6 years,OWN,41032,Source Verified,Mar-19,Issued,n
+,,18000,18000,18000, 60 months,10.33%,385.38,B,B1,Biller,10+ years,OWN,45000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,15.57%,349.46,C,C3,Ops Manager,3 years,OWN,66000,Source Verified,Mar-19,Current,n
+,,20000,20000,20000, 36 months,13.90%,682.59,C,C1,Project Inspector,10+ years,MORTGAGE,94000,Not Verified,Mar-19,Issued,n
+,,12800,12800,12800, 36 months,17.19%,457.57,C,C5,Server,6 years,RENT,45000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,13.90%,464.33,C,C1,Management,10+ years,MORTGAGE,95000,Source Verified,Mar-19,Issued,n
+,,1700,1700,1700, 36 months,28.80%,71.06,D,D5,,< 1 year,MORTGAGE,30000,Not Verified,Mar-19,Issued,n
+,,8500,8500,8500, 36 months,6.46%,260.37,A,A1,Senior Collector,4 years,MORTGAGE,38000,Not Verified,Mar-19,Issued,n
+,,21000,21000,21000, 60 months,10.33%,449.61,B,B1,MANAGER,10+ years,MORTGAGE,132576,Not Verified,Mar-19,Issued,n
+,,4000,4000,4000, 36 months,7.56%,124.54,A,A3,,< 1 year,RENT,40000,Not Verified,Mar-19,Issued,n
+,,10000,10000,9750, 36 months,11.71%,330.76,B,B3,teacher,8 years,MORTGAGE,125000,Not Verified,Mar-19,Issued,n
+,,34800,34800,34750, 36 months,8.81%,1103.56,A,A5,Registered Nurse,4 years,RENT,100000,Not Verified,Mar-19,Issued,n
+,,10000,10000,9975, 36 months,16.40%,353.55,C,C4,receiving warehouse,10+ years,RENT,55000,Source Verified,Mar-19,Issued,n
+,,5000,5000,4975, 36 months,8.81%,158.56,A,A5,Sergeant ,3 years,RENT,34000,Not Verified,Mar-19,Issued,n
+,,19000,19000,19000, 36 months,20.00%,706.11,D,D2,registered nurse,10+ years,RENT,100000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,17.97%,634.43,D,D1,Controller,10+ years,MORTGAGE,76000,Not Verified,Mar-19,Issued,n
+,,9600,9600,9575, 36 months,7.02%,296.51,A,A2,Psychatric technician ,3 years,RENT,80000,Not Verified,Mar-19,Issued,n
+,,40000,40000,39975, 60 months,17.19%,998.2,C,C5,Operations Manager,10+ years,MORTGAGE,117000,Not Verified,Mar-19,Issued,n
+,,27575,27575,27575, 36 months,17.97%,996.49,D,D1,Police Detective,10+ years,MORTGAGE,143462,Not Verified,Mar-19,Issued,n
+,,5000,5000,4725, 36 months,11.71%,165.38,B,B3,QA automation tester,5 years,MORTGAGE,91560,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,14.74%,354.81,C,C2,Philanthropic Database Specialist,6 years,RENT,40000,Source Verified,Mar-19,Issued,n
+,,2500,2500,2500, 36 months,15.57%,87.37,C,C3,Machinist,10+ years,OWN,50000,Verified,Mar-19,Issued,n
+,,24000,24000,24000, 36 months,13.90%,819.1,C,C1,,n/a,MORTGAGE,115000,Not Verified,Mar-19,Issued,n
+,,7000,7000,7000, 36 months,7.02%,216.21,A,A2,Engineer,< 1 year,RENT,61500,Not Verified,Mar-19,Issued,n
+,,19200,19200,19200, 60 months,22.50%,535.76,D,D3,Store Manager,5 years,RENT,58000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,6.46%,306.31,A,A1,Optometric Technician ,4 years,RENT,38000,Not Verified,Mar-19,Issued,n
+,,16000,16000,15975, 60 months,20.00%,423.91,D,D2,Attorney,10+ years,MORTGAGE,145000,Not Verified,Mar-19,Issued,n
+,,1200,1200,1200, 36 months,17.97%,43.37,D,D1,Driver,6 years,MORTGAGE,98000,Verified,Mar-19,Issued,n
+,,6000,6000,5975, 36 months,13.90%,204.78,C,C1,Reception,10+ years,RENT,70000,Source Verified,Mar-19,Issued,n
+,,11200,11200,11200, 36 months,14.74%,386.83,C,C2,Patient Service Rep,10+ years,MORTGAGE,38000,Source Verified,Mar-19,Issued,n
+,,6000,6000,5975, 36 months,6.46%,183.79,A,A1,Assistant manager ,10+ years,RENT,67000,Source Verified,Mar-19,Issued,n
+,,4000,4000,3975, 36 months,15.57%,139.79,C,C3,Sales representative ,3 years,MORTGAGE,53000,Source Verified,Mar-19,Issued,n
+,,28000,28000,28000, 60 months,13.90%,650.07,C,C1,"SVP, Wealth Advisor",1 year,MORTGAGE,130000,Verified,Mar-19,Issued,n
+,,1000,1000,1000, 36 months,16.40%,35.36,C,C4,Manager,6 years,RENT,33000,Not Verified,Mar-19,Issued,n
+,,15000,15000,14975, 36 months,7.56%,467.01,A,A3,Kitchen manager ,8 years,OWN,71000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,14.74%,414.46,C,C2,Geek Squad Manager,10+ years,RENT,57000,Source Verified,Mar-19,Issued,n
+,,5000,5000,4975, 36 months,13.90%,170.65,C,C1,Pharmacy tech,4 years,RENT,42000,Verified,Mar-19,Issued,n
+,,5000,5000,4975, 36 months,6.46%,153.16,A,A1,Director,8 years,MORTGAGE,180000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,8.81%,317.12,A,A5,Manufacturing Systems Administrator,6 years,MORTGAGE,55000,Not Verified,Mar-19,Issued,n
+,,3000,3000,3000, 36 months,15.57%,104.84,C,C3,,n/a,OWN,16500,Not Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,15.57%,279.57,C,C3,Department Manager,8 years,RENT,40000,Not Verified,Mar-19,Issued,n
+,,24000,24000,24000, 36 months,20.00%,891.93,D,D2,Information systems engineer,10+ years,RENT,100000,Not Verified,Mar-19,Issued,n
+,,14850,14850,14850, 36 months,8.19%,466.65,A,A4,Administrative Manager,10+ years,MORTGAGE,76000,Not Verified,Mar-19,Issued,n
+,,35000,35000,34975, 60 months,16.40%,858.59,C,C4,Driver,10+ years,MORTGAGE,105000,Verified,Mar-19,Issued,n
+,,28000,28000,28000, 60 months,14.74%,662.31,C,C2,Field Service Engineer,2 years,MORTGAGE,105000,Source Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,28.80%,250.79,D,D5,Supervisor,10+ years,MORTGAGE,103000,Source Verified,Mar-19,Issued,n
+,,21850,21850,21575, 36 months,11.02%,715.55,B,B2,Vendor Manager,< 1 year,RENT,105000,Verified,Mar-19,Current,n
+,,15000,15000,14750, 36 months,11.02%,491.23,B,B2,Maintenance Worker,10+ years,MORTGAGE,90000,Not Verified,Mar-19,Issued,n
+,,11200,11200,11200, 36 months,8.19%,351.95,A,A4,Chef,4 years,MORTGAGE,53000,Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,14.74%,414.46,C,C2,Valet attendant,4 years,RENT,53000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,12.40%,561.18,B,B4,,< 1 year,MORTGAGE,65000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,12.40%,224.48,B,B4,Program Manager ,2 years,MORTGAGE,105000,Source Verified,Mar-19,Issued,n
+,,14200,14200,14200, 36 months,13.90%,484.64,C,C1,Maint worker,10+ years,RENT,64000,Not Verified,Mar-19,Issued,n
+,,17500,17500,17225, 36 months,10.33%,567.4,B,B1,,< 1 year,OWN,95000,Not Verified,Mar-19,Issued,n
+,,40000,40000,40000, 36 months,8.19%,1256.97,A,A4,Vice President,10+ years,RENT,91000,Not Verified,Mar-19,Issued,n
+,,9000,9000,9000, 36 months,6.46%,275.68,A,A1,Police Officer,9 years,MORTGAGE,70000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,13.90%,341.3,C,C1,Server,1 year,RENT,48000,Not Verified,Mar-19,Issued,n
+,,1400,1400,1400, 36 months,17.19%,50.05,C,C5,Lab technician ,2 years,RENT,36750,Source Verified,Mar-19,Issued,n
+,,15000,15000,14975, 60 months,16.40%,367.97,C,C4,Information Security Engineer,3 years,RENT,220000,Not Verified,Mar-19,Issued,n
+,,6400,6400,6125, 36 months,11.02%,209.59,B,B2,,< 1 year,RENT,42000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,28.80%,316.21,D,D5,Project Manager,2 years,RENT,96500,Not Verified,Mar-19,Issued,n
+,,7600,7600,7600, 36 months,7.02%,234.74,A,A2,Nurse Case Manager,< 1 year,MORTGAGE,120000,Not Verified,Mar-19,Issued,n
+,,14000,14000,14000, 36 months,8.81%,443.96,A,A5,,n/a,RENT,45000,Not Verified,Mar-19,Current,n
+,,25000,25000,24975, 36 months,16.40%,883.88,C,C4,Online Banking Specialist,< 1 year,RENT,33000,Not Verified,Mar-19,Issued,n
+,,5000,5000,4725, 36 months,13.08%,168.67,B,B5,,n/a,MORTGAGE,90000,Not Verified,Mar-19,Issued,n
+,,32500,32500,32500, 60 months,17.97%,824.76,D,D1,Shift Supervisor,10+ years,MORTGAGE,65000,Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,16.40%,176.78,C,C4,Order Verification Specialist,4 years,OWN,39900,Source Verified,Mar-19,Issued,n
+,,1200,1200,1200, 36 months,13.90%,40.96,C,C1,operator,10+ years,RENT,52000,Not Verified,Mar-19,Issued,n
+,,10800,10800,10800, 60 months,28.80%,341.5,D,D5,Genius,10+ years,RENT,61000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,14.74%,345.39,C,C2,,n/a,MORTGAGE,45818.22,Verified,Mar-19,Issued,n
+,,30000,30000,30000, 36 months,15.57%,1048.36,C,C3,Field Training Manager,10+ years,RENT,135000,Source Verified,Mar-19,Issued,n
+,,5500,5500,5475, 36 months,7.56%,171.24,A,A3,,3 years,ANY,51000,Not Verified,Mar-19,Issued,n
+,,2400,2400,2400, 36 months,7.56%,74.73,A,A3,,< 1 year,MORTGAGE,45000,Not Verified,Mar-19,Fully Paid,n
+,,10000,10000,10000, 60 months,20.00%,264.94,D,D2,Member Service Supervisor,5 years,RENT,25300,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,13.90%,853.23,C,C1,Installer/Shop Metal ,1 year,RENT,36400,Verified,Mar-19,Issued,n
+,,13750,13750,13750, 36 months,16.40%,486.13,C,C4,Operations lead Tech,10+ years,MORTGAGE,69000,Not Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,14.74%,207.23,C,C2,production manager ,6 years,OWN,50000,Not Verified,Mar-19,Issued,n
+,,32000,32000,31975, 60 months,17.97%,812.07,D,D1,Legal Secretary,10+ years,OWN,80000,Not Verified,Mar-19,Issued,n
+,,28000,28000,28000, 60 months,8.19%,570.29,A,A4,Superintendant,10+ years,MORTGAGE,125000,Not Verified,Mar-19,Issued,n
+,,12000,12000,11975, 60 months,17.97%,304.53,D,D1,Mail Carrier,10+ years,OWN,76000,Source Verified,Mar-19,Issued,n
+,,35000,35000,35000, 60 months,13.08%,797.8,B,B5,Project Manager,10+ years,MORTGAGE,95000,Source Verified,Mar-19,Issued,n
+,,10575,10575,10575, 60 months,20.00%,280.18,D,D2,Director of sales ,2 years,MORTGAGE,127000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,6.46%,306.31,A,A1,,< 1 year,RENT,49000,Not Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,8.19%,251.4,A,A4,General manager,10+ years,MORTGAGE,135000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,22.50%,279.04,D,D3,Protroluem specialist ,10+ years,RENT,71000,Not Verified,Mar-19,Issued,n
+,,6000,6000,5750, 36 months,11.71%,198.46,B,B3,Teacher ,10+ years,MORTGAGE,92000,Not Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,12.40%,200.44,B,B4,Project Estimator,< 1 year,MORTGAGE,74000,Source Verified,Mar-19,Issued,n
+,,9900,9900,9900, 36 months,22.50%,380.66,D,D3,Professional driver,< 1 year,RENT,60000,Source Verified,Mar-19,Issued,n
+,,36000,36000,35975, 60 months,13.08%,820.59,B,B5,Painter,10+ years,RENT,61350,Not Verified,Mar-19,Issued,n
+,,40000,40000,40000, 60 months,12.40%,897.89,B,B4,Director of Sales & Estimating,4 years,MORTGAGE,150000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,16.40%,707.1,C,C4,Fleet Specialist,10+ years,RENT,53659,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,20.00%,557.46,D,D2,site manager,10+ years,OWN,54000,Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,16.40%,883.88,C,C4,Regional sales manager ,3 years,RENT,124000,Source Verified,Mar-19,Issued,n
+,,19000,19000,19000, 36 months,15.57%,663.96,C,C3,,n/a,MORTGAGE,55000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,14.74%,345.39,C,C2,Executive Assistant,10+ years,RENT,63295,Verified,Mar-19,Current,n
+,,18000,18000,18000, 60 months,8.19%,366.62,A,A4,Clinical Specialist/Supervisor,7 years,MORTGAGE,110000,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,20.00%,317.93,D,D2,Mechanic,1 year,OWN,39000,Not Verified,Mar-19,Issued,n
+,,40000,40000,39975, 60 months,10.33%,856.4,B,B1,Teacher,10+ years,MORTGAGE,65411,Source Verified,Mar-19,Issued,n
+,,15000,15000,14750, 36 months,13.08%,505.99,B,B5,Audit Supervisor,4 years,MORTGAGE,93500,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,22.50%,334.85,D,D3,Secretary,10+ years,RENT,50000,Source Verified,Mar-19,Issued,n
+,,10000,10000,9750, 36 months,11.02%,327.49,B,B2,Deli clerk,7 years,MORTGAGE,55000,Not Verified,Mar-19,Issued,n
+,,9600,9600,9600, 36 months,14.74%,331.57,C,C2,Senior Marketing Specialist,10+ years,MORTGAGE,185000,Not Verified,Mar-19,Issued,n
+,,3600,3600,3600, 36 months,8.19%,113.13,A,A4,Courier DOT,< 1 year,RENT,60000,Not Verified,Mar-19,Issued,n
+,,23200,23200,23175, 60 months,16.40%,569.13,C,C4,Branch Manager,10+ years,RENT,59655.51,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,16.40%,424.26,C,C4,,n/a,OWN,175000,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,8.81%,380.54,A,A5,Speech Language Pathologist ,10+ years,OWN,73000,Source Verified,Mar-19,Issued,n
+,,10000,10000,9975, 36 months,6.46%,306.31,A,A1,Electrician,9 years,MORTGAGE,120000,Not Verified,Mar-19,Issued,n
+,,10450,10450,10450, 36 months,6.46%,320.1,A,A1,,n/a,RENT,40000,Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,25.00%,477.12,D,D4,Store manager,7 years,RENT,56000,Verified,Mar-19,Issued,n
+,,9000,9000,9000, 36 months,16.40%,318.2,C,C4,Critical Facility Officer,8 years,RENT,35000,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,11.71%,496.14,B,B3,Regisered Nurse,3 years,MORTGAGE,75000,Not Verified,Mar-19,Issued,n
+,,8500,8500,8500, 36 months,8.19%,267.11,A,A4,Executive Assistant,1 year,RENT,75000,Not Verified,Mar-19,Current,n
+,,10000,10000,10000, 36 months,8.81%,317.12,A,A5,Specialist - Accounting,10+ years,RENT,81000,Verified,Mar-19,Issued,n
+,,40000,40000,40000, 36 months,6.46%,1225.24,A,A1,Sr. Systems Engineer - Team Lead,7 years,MORTGAGE,117000,Source Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,8.19%,251.4,A,A4,,< 1 year,MORTGAGE,54000,Not Verified,Mar-19,Issued,n
+,,12800,12800,12800, 60 months,12.40%,287.33,B,B4,Underwritier,3 years,MORTGAGE,78000,Not Verified,Mar-19,Issued,n
+,,35200,35200,35200, 60 months,13.90%,817.22,C,C1,Account Executive,5 years,MORTGAGE,170000,Verified,Mar-19,Issued,n
+,,8400,8400,8400, 36 months,13.90%,286.69,C,C1,,n/a,RENT,21000,Not Verified,Mar-19,Issued,n
+,,17000,17000,17000, 60 months,15.57%,409.54,C,C3,Operator,2 years,RENT,52000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,13.08%,337.33,B,B5,Revenue Cycle Director,< 1 year,MORTGAGE,160000,Source Verified,Mar-19,Issued,n
+,,12500,12500,12500, 36 months,6.46%,382.89,A,A1,Tax Administrator,10+ years,MORTGAGE,86000,Not Verified,Mar-19,Issued,n
+,,32200,32200,32200, 60 months,17.97%,817.15,D,D1,Senior Pastor,10+ years,MORTGAGE,70000,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,28.80%,758.89,D,D5,Chef,7 years,MORTGAGE,95000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,20.00%,264.94,D,D2,Trainer ,6 years,RENT,72000,Verified,Mar-19,Issued,n
+,,8400,8400,8400, 36 months,8.81%,266.38,A,A5,,n/a,MORTGAGE,72000,Verified,Mar-19,Issued,n
+,,1000,1000,1000, 36 months,7.02%,30.89,A,A2,,n/a,RENT,14000,Verified,Mar-19,Issued,n
+,,24950,24950,24950, 60 months,14.74%,590.16,C,C2,Teacher,7 years,RENT,59932,Source Verified,Mar-19,Issued,n
+,,35000,35000,35000, 60 months,16.40%,858.59,C,C4,train conductor,10+ years,MORTGAGE,90000,Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,15.57%,698.91,C,C3,Ultrasound technician ,1 year,RENT,80000,Verified,Mar-19,Issued,n
+,,9000,9000,9000, 36 months,12.40%,300.66,B,B4,Foreman,5 years,OWN,50000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.81%,475.68,A,A5,Coordinator ,2 years,RENT,60000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,17.97%,634.43,D,D1,Master plumber and pipefitter,3 years,RENT,75000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,14.74%,863.46,C,C2,Service Manager ,10+ years,OWN,55000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,17.19%,428.97,C,C5,Foreman,8 years,OWN,110000,Source Verified,Mar-19,Issued,n
+,,12500,12500,12500, 60 months,20.00%,331.18,D,D2,Assistant Fullon Leader ,7 years,RENT,55000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,6.46%,612.62,A,A1,,< 1 year,RENT,270000,Not Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,8.81%,253.7,A,A5,teacher,6 years,RENT,52000,Source Verified,Mar-19,Issued,n
+,,18000,18000,18000, 36 months,13.08%,607.19,B,B5,Employment specialist ,2 years,RENT,54000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,6.46%,367.57,A,A1,First Class Petty Ofiicer,10+ years,MORTGAGE,75000,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,6.46%,367.57,A,A1,CSR,1 year,MORTGAGE,40000,Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,15.57%,481.81,C,C3,Lab Tech,10+ years,RENT,44000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,7.56%,622.68,A,A3,,< 1 year,RENT,220000,Not Verified,Mar-19,Issued,n
+,,5000,5000,4750, 36 months,13.08%,168.67,B,B5,,10+ years,MORTGAGE,56000,Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,10.33%,810.56,B,B1,V.P. Sales,2 years,RENT,180000,Source Verified,Mar-19,Issued,n
+,,2000,2000,2000, 36 months,28.80%,83.6,D,D5,,3 years,RENT,24000,Source Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,12.40%,167.03,B,B4,financial counselor,7 years,RENT,55000,Not Verified,Mar-19,Issued,n
+,,18000,18000,18000, 60 months,15.57%,433.63,C,C3,top drive technician,7 years,MORTGAGE,150000,Source Verified,Mar-19,Current,n
+,,17625,17625,17625, 36 months,15.57%,615.91,C,C3,Transporter Specialist,2 years,RENT,42000,Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,8.19%,509.19,A,A4,Distribution Director,10+ years,MORTGAGE,100000,Source Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,7.56%,155.67,A,A3,Foster Mom,10+ years,MORTGAGE,56000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,16.40%,353.55,C,C4,Sales Rep,8 years,MORTGAGE,126000,Source Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,11.02%,261.03,B,B2,COTA,2 years,RENT,90000,Source Verified,Mar-19,Issued,n
+,,5500,5500,5500, 36 months,7.02%,169.88,A,A2,ramp agent,10+ years,MORTGAGE,60000,Not Verified,Mar-19,Issued,n
+,,40000,40000,40000, 36 months,6.46%,1225.24,A,A1,Charge RN Nurse,10+ years,MORTGAGE,198000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,8.19%,509.19,A,A4,Technician,5 years,MORTGAGE,69900,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,11.71%,496.14,B,B3,Owner,10+ years,OWN,85000,Not Verified,Mar-19,Issued,n
+,,33000,33000,33000, 36 months,13.90%,1126.26,C,C1,Director of Operations,1 year,MORTGAGE,65000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,11.02%,543.81,B,B2,Vice President of Engagement,1 year,MORTGAGE,115000,Verified,Mar-19,Issued,n
+,,16000,16000,16000, 36 months,20.00%,594.62,D,D2,,< 1 year,MORTGAGE,75000,Not Verified,Mar-19,Issued,n
+,,30000,30000,30000, 36 months,17.19%,1072.43,C,C5,Manufacturing Planner ,< 1 year,RENT,72000,Not Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,28.80%,505.93,D,D5,Maintenance,5 years,OWN,75000,Verified,Mar-19,Issued,n
+,,30000,30000,30000, 36 months,15.57%,1048.36,C,C3,Security Consultant,2 years,RENT,87000,Source Verified,Mar-19,Current,n
+,,15000,15000,15000, 36 months,8.19%,471.37,A,A4,graphic artist,10+ years,OWN,38500,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 36 months,16.40%,848.52,C,C4,Laborer ,3 years,MORTGAGE,24000,Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,8.81%,317.12,A,A5,Sr Network Engineer,1 year,RENT,124000,Source Verified,Mar-19,Issued,n
+,,18000,18000,18000, 60 months,15.57%,433.63,C,C3,Production Specialist,10+ years,OWN,40000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,7.56%,467.01,A,A3,Technicsion,10+ years,MORTGAGE,72000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,7.02%,617.73,A,A2,Project Manager,10+ years,MORTGAGE,100000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,7.02%,463.3,A,A2,mechanic,10+ years,OWN,37000,Source Verified,Mar-19,Issued,n
+,,24000,24000,24000, 60 months,13.08%,547.06,B,B5,national news correspondent,4 years,RENT,80000,Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,11.02%,163.75,B,B2,Accounts Payable Processor,< 1 year,RENT,49000,Not Verified,Mar-19,Issued,n
+,,17400,17400,17400, 36 months,15.57%,608.05,C,C3,Technical Project Manager,6 years,MORTGAGE,128290,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.19%,471.37,A,A4,Office Manager,3 years,RENT,65000,Source Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,6.46%,183.79,A,A1,ADMINISTRATION,10+ years,MORTGAGE,49000,Not Verified,Mar-19,Issued,n
+,,7000,7000,7000, 36 months,11.71%,231.54,B,B3,Dry pack forklift,< 1 year,RENT,38000,Not Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,11.02%,654.97,B,B2,General Warehouse Associate ,1 year,MORTGAGE,35000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,17.19%,357.48,C,C5,,< 1 year,MORTGAGE,50000,Not Verified,Mar-19,Issued,n
+,,18800,18800,18800, 36 months,6.46%,575.86,A,A1,Software Engineer,10+ years,MORTGAGE,140000,Not Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,16.40%,282.84,C,C4,,n/a,MORTGAGE,50000,Verified,Mar-19,Issued,n
+,,2400,2400,2125, 36 months,10.33%,77.82,B,B1,Director,10+ years,RENT,72000,Not Verified,Mar-19,Issued,n
+,,1800,1800,1800, 36 months,17.19%,64.35,C,C5,,< 1 year,RENT,54776,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,11.02%,326.29,B,B2,client services ,3 years,MORTGAGE,72500,Not Verified,Mar-19,Issued,n
+,,9000,9000,9000, 36 months,14.74%,310.85,C,C2,Builder,10+ years,RENT,54500,Not Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,22.50%,230.7,D,D3,Receptionalist,1 year,MORTGAGE,18000,Verified,Mar-19,Issued,n
+,,4000,4000,4000, 36 months,11.02%,131,B,B2,Supply Chain Planner,10+ years,MORTGAGE,79000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,13.90%,341.3,C,C1,,n/a,OWN,13808,Verified,Mar-19,Issued,n
+,,40000,40000,40000, 36 months,6.46%,1225.24,A,A1,,< 1 year,RENT,150000,Not Verified,Mar-19,Issued,n
+,,3600,3600,3600, 36 months,12.40%,120.27,B,B4,Server,< 1 year,RENT,21540,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,16.40%,353.55,C,C4,,< 1 year,ANY,154000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,8.19%,305.52,A,A4,,n/a,RENT,46000,Not Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,20.00%,794.82,D,D2,administrative director,1 year,MORTGAGE,140000,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,12.40%,448.95,B,B4,Technician ,< 1 year,RENT,100000,Not Verified,Mar-19,Issued,n
+,,39500,39500,39500, 60 months,8.19%,804.52,A,A4,Procurement Specialist,2 years,MORTGAGE,105000,Source Verified,Mar-19,Issued,n
+,,23000,23000,23000, 60 months,13.90%,533.98,C,C1,Stocker,10+ years,MORTGAGE,56000,Source Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,13.90%,853.23,C,C1,Network admin,1 year,RENT,72000,Source Verified,Mar-19,Current,n
+,,10000,10000,10000, 36 months,17.19%,357.48,C,C5,Mechanic,< 1 year,RENT,45000,Not Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,6.46%,245.05,A,A1,Personal housekeeper ,5 years,RENT,32500,Source Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,13.90%,682.59,C,C1,Petroleum Landman,< 1 year,RENT,48000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,8.81%,475.68,A,A5,Floor Foreman,10+ years,RENT,78000,Not Verified,Mar-19,Current,n
+,,30000,30000,30000, 36 months,8.81%,951.35,A,A5,Implementation Consultant,2 years,MORTGAGE,63000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,15.57%,361.36,C,C3,,n/a,OWN,20208,Verified,Mar-19,Issued,n
+,,10200,10200,10200, 36 months,13.90%,348.12,C,C1,Appeals Resolution Analyst Sr,10+ years,MORTGAGE,110000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,15.57%,240.91,C,C3,Respiratory therapist,9 years,MORTGAGE,125000,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,11.02%,491.23,B,B2,Social Media Manager,1 year,RENT,52000,Source Verified,Mar-19,Issued,n
+,,18000,18000,18000, 36 months,28.80%,752.35,D,D5,Instructor,4 years,MORTGAGE,55200,Source Verified,Mar-19,Issued,n
+,,32000,32000,32000, 60 months,17.19%,798.56,C,C5,Technician III,3 years,RENT,65000,Verified,Mar-19,Issued,n
+,,6750,6750,6750, 36 months,15.57%,235.88,C,C3,Charge nurse,8 years,RENT,68000,Not Verified,Mar-19,Issued,n
+,,27000,27000,27000, 60 months,13.08%,615.44,B,B5,Paramedic,2 years,MORTGAGE,110000,Verified,Mar-19,Issued,n
+,,20000,20000,20000, 60 months,20.00%,529.88,D,D2,Pharmacy Tech,10+ years,RENT,65000,Not Verified,Mar-19,Issued,n
+,,22000,22000,22000, 36 months,8.81%,697.66,A,A5,Architect,10+ years,MORTGAGE,56900,Verified,Mar-19,Issued,n
+,,40000,40000,40000, 36 months,11.02%,1309.93,B,B2,,< 1 year,MORTGAGE,150000,Source Verified,Mar-19,Issued,n
+,,10800,10800,10800, 60 months,8.19%,219.97,A,A4,Payroll Coordinator,10+ years,OWN,65000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,20.00%,264.94,D,D2,Home Health Aide,5 years,RENT,26000,Not Verified,Mar-19,Issued,n
+,,19500,19500,19500, 36 months,6.46%,597.31,A,A1,Autobody Technician,6 years,MORTGAGE,100000,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,17.19%,536.22,C,C5,,n/a,MORTGAGE,79000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,11.71%,330.76,B,B3,Sales representative ,4 years,RENT,54000,Not Verified,Mar-19,Current,n
+,,20000,20000,20000, 60 months,12.40%,448.95,B,B4,Technical Analyst,8 years,MORTGAGE,100000,Source Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,6.46%,183.79,A,A1,CNA,1 year,RENT,105000,Not Verified,Mar-19,Issued,n
+,,21000,21000,21000, 36 months,8.19%,659.91,A,A4,,< 1 year,MORTGAGE,45000,Source Verified,Mar-19,Issued,n
+,,32600,32600,32600, 36 months,20.00%,1211.54,D,D2,HUC,10+ years,RENT,10000,Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,16.40%,353.55,C,C4,Machine operator,10+ years,MORTGAGE,60000,Source Verified,Mar-19,Issued,n
+,,18000,18000,18000, 60 months,10.33%,385.38,B,B1,Dean,9 years,MORTGAGE,95000,Source Verified,Mar-19,Issued,n
+,,14400,14400,14400, 36 months,13.08%,485.75,B,B5,Delivery Advisor,2 years,RENT,87000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,20.00%,371.64,D,D2,Accounting,< 1 year,RENT,45000,Not Verified,Mar-19,Issued,n
+,,12000,12000,12000, 36 months,7.02%,370.64,A,A2,Atm technician ,10+ years,OWN,42000,Verified,Mar-19,Current,n
+,,6575,6575,6575, 36 months,17.97%,237.61,D,D1,Wealth advisory assistant,1 year,RENT,60000,Source Verified,Mar-19,Issued,n
+,,30800,30800,30800, 60 months,16.40%,755.56,C,C4,Special Education Paraprofessional,5 years,RENT,12000,Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,14.74%,172.7,C,C2,,n/a,MORTGAGE,49680,Not Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,10.33%,321.15,B,B1,,n/a,MORTGAGE,72000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,11.71%,220.99,B,B3,Registered Nurse  ,3 years,MORTGAGE,58000,Source Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,15.57%,174.73,C,C3,Sergeant First Class,10+ years,MORTGAGE,55000,Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,14.74%,276.31,C,C2,Academy Department Manager,10+ years,OWN,40000,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 60 months,10.33%,535.25,B,B1,Lab Supervisor,5 years,MORTGAGE,102000,Not Verified,Mar-19,Issued,n
+,,11000,11000,11000, 60 months,20.00%,291.44,D,D2,,n/a,MORTGAGE,51216,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,8.81%,317.12,A,A5,Senior Customer Support Manager,< 1 year,RENT,50000,Not Verified,Mar-19,Issued,n
+,,30000,30000,30000, 60 months,10.33%,642.3,B,B1,,< 1 year,MORTGAGE,100000,Source Verified,Mar-19,Current,n
+,,12000,12000,12000, 60 months,17.97%,304.53,D,D1,Help Desk Administrator,10+ years,OWN,51974,Source Verified,Mar-19,Issued,n
+,,15000,15000,15000, 60 months,17.19%,374.33,C,C5,Assistant Manager ,10+ years,RENT,42000,Verified,Mar-19,Issued,n
+,,8250,8250,8250, 36 months,12.40%,275.6,B,B4,Loan processor,1 year,MORTGAGE,125000,Not Verified,Mar-19,Issued,n
+,,11000,11000,11000, 60 months,8.19%,224.05,A,A4,,n/a,MORTGAGE,30800,Verified,Mar-19,Issued,n
+,,15000,15000,15000, 36 months,11.02%,491.23,B,B2,Carpenter ,3 years,MORTGAGE,56532,Not Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,17.19%,214.49,C,C5,Registered Nurse,3 years,OWN,60000,Not Verified,Mar-19,Issued,n
+,,3450,3450,3450, 36 months,7.02%,106.56,A,A2,Education Coordinator ,10+ years,RENT,35602,Source Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,17.19%,285.98,C,C5,,< 1 year,OWN,52000,Not Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,8.19%,314.25,A,A4,,< 1 year,MORTGAGE,58000,Source Verified,Mar-19,Issued,n
+,,2200,2200,2200, 36 months,7.56%,68.5,A,A3,Maintenance ,10+ years,MORTGAGE,90000,Not Verified,Mar-19,Issued,n
+,,3000,3000,3000, 36 months,17.97%,108.42,D,D1,,< 1 year,OWN,21000,Source Verified,Mar-19,Issued,n
+,,22000,22000,22000, 60 months,20.00%,582.87,D,D2,"Truck Driver, Road Department",10+ years,RENT,82000,Source Verified,Mar-19,Issued,n
+,,9600,9600,9600, 36 months,17.97%,346.92,D,D1,Administrative Assistant,7 years,RENT,34000,Source Verified,Mar-19,Issued,n
+,,40000,40000,40000, 60 months,13.08%,911.77,B,B5,Director Wealth Advisory Services,5 years,MORTGAGE,225000,Source Verified,Mar-19,Issued,n
+,,15800,15800,15800, 60 months,16.40%,387.6,C,C4,inventory manager ,4 years,MORTGAGE,62000,Source Verified,Mar-19,Current,n
+,,10000,10000,10000, 60 months,13.08%,227.95,B,B5,certified master technician,6 years,MORTGAGE,90000,Not Verified,Mar-19,Issued,n
+,,27075,27075,27075, 60 months,28.80%,856.12,D,D5,Sr. Agile Coach,1 year,OWN,165000,Verified,Mar-19,Issued,n
+,,28000,28000,28000, 60 months,11.71%,618.75,B,B3,Fire alarm technician,9 years,RENT,78000,Source Verified,Mar-19,Issued,n
+,,21000,21000,21000, 60 months,13.08%,478.68,B,B5,Trooper,10+ years,MORTGAGE,110000,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,6.46%,306.31,A,A1,Tax,8 years,MORTGAGE,59000,Not Verified,Mar-19,Fully Paid,n
+,,23500,23500,23500, 60 months,12.40%,527.51,B,B4,Loan Officer,6 years,OWN,85000,Not Verified,Mar-19,Issued,n
+,,26000,26000,26000, 60 months,8.19%,529.56,A,A4,Hvac tech,10+ years,MORTGAGE,86000,Source Verified,Mar-19,Issued,n
+,,2000,2000,2000, 36 months,8.19%,62.85,A,A4,,< 1 year,RENT,25000,Source Verified,Mar-19,Issued,n
+,,20475,20475,20475, 36 months,15.57%,715.51,C,C3,Flight attendant ,3 years,RENT,20000,Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,16.40%,176.78,C,C4,Conductor,10+ years,MORTGAGE,108000,Source Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,8.19%,251.4,A,A4,Technoglist,10+ years,MORTGAGE,92000,Verified,Mar-19,Issued,n
+,,10000,10000,10000, 36 months,6.46%,306.31,A,A1,Payment Services Management ,5 years,MORTGAGE,62000,Source Verified,Mar-19,Issued,n
+,,11000,11000,11000, 36 months,13.08%,371.06,B,B5,housekeeper,10+ years,RENT,61575,Not Verified,Mar-19,Issued,n
+,,5000,5000,5000, 36 months,14.74%,172.7,C,C2,Accounting ,10+ years,RENT,60000,Not Verified,Mar-19,Issued,n
+,,10500,10500,10500, 36 months,17.19%,375.35,C,C5,Letter Carrier,10+ years,RENT,65000,Source Verified,Mar-19,Issued,n
+,,32000,32000,32000, 36 months,17.19%,1143.92,C,C5,Director of Nursing,9 years,RENT,130000,Verified,Mar-19,Issued,n
+,,40000,40000,40000, 36 months,11.02%,1309.93,B,B2,President,10+ years,MORTGAGE,510000,Source Verified,Mar-19,Issued,n
+,,14775,14775,14775, 60 months,28.80%,467.19,D,D5,,< 1 year,MORTGAGE,120000,Source Verified,Mar-19,Issued,n
+,,16000,16000,16000, 60 months,22.50%,446.47,D,D3,Food service ,10+ years,RENT,95000,Source Verified,Mar-19,Issued,n
+,,11325,11325,11325, 60 months,8.19%,230.67,A,A4,Authorizations Manager,2 years,MORTGAGE,90000,Not Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,11.02%,196.49,B,B2,Manager,10+ years,MORTGAGE,73000,Not Verified,Mar-19,Issued,n
+,,6000,6000,6000, 36 months,13.90%,204.78,C,C1,Mailcarrier,10+ years,MORTGAGE,62648,Source Verified,Mar-19,Issued,n
+,,10000,10000,10000, 60 months,13.90%,232.17,C,C1,Meeting Coordinator ,10+ years,RENT,39000,Verified,Mar-19,Issued,n
+,,4200,4200,4200, 36 months,11.02%,137.55,B,B2,Deliveryman,10+ years,RENT,52638,Source Verified,Mar-19,Issued,n
+,,4800,4800,4800, 36 months,7.02%,148.26,A,A2,Provider Training,10+ years,MORTGAGE,51000,Not Verified,Mar-19,Issued,n
+,,33000,33000,33000, 36 months,13.08%,1113.18,B,B5,Onsite tech ,2 years,RENT,120000,Verified,Mar-19,Issued,n
+,,12000,12000,12000, 60 months,10.33%,256.92,B,B1,Design Manager,10+ years,MORTGAGE,50000,Verified,Mar-19,Issued,n
+,,20000,20000,20000, 36 months,12.40%,668.12,B,B4,Manager ,4 years,RENT,96000,Not Verified,Mar-19,Issued,n
+,,8000,8000,8000, 36 months,17.19%,285.98,C,C5,,n/a,RENT,18432,Not Verified,Mar-19,Issued,n
+,,25000,25000,25000, 36 months,8.81%,792.79,A,A5,"Sr Director, Marketing and Development",5 years,MORTGAGE,90000,Source Verified,Mar-19,Issued,n
+,,22000,22000,22000, 60 months,20.00%,582.87,D,D2,Supervisor,1 year,OWN,65000,Verified,Mar-19,Issued,n
